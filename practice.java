@@ -120,7 +120,7 @@ public class practice{
             System.out.println(food.get(i));
         }
         */
-        /* */
+        /*
 
         ArrayList<ArrayList<String>> groceryList=new ArrayList<>();
         ArrayList<String> bakeryList = new ArrayList<>();
@@ -135,10 +135,20 @@ public class practice{
         groceryList.add(sodaList);
 
         System.out.println();
+        */
+        /* 
+        ArrayList<String> animal= new ArrayList<String>();
 
+        animal.add("cat");
+        animal.add("dog");
+        animal.add("pig");
+        animal.add("snake");
 
-
-
+        for(String i : animal){
+            System.out.println(i);
+        }
+        */
+                
 
     }
 }
